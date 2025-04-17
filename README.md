@@ -38,9 +38,7 @@ The main objective was to clean, analyze, visualize, and extract insights from t
 ---
 
 ## 📸 Screenshots
-
-![Excel Summary](screenshots/excel_summary.png)  
-![Python Visuals](screenshots/python_plot.png)  
+ 
 ![Power BI Dashboard](screenshots/dashboard.png)
 
 ---
