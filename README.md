@@ -61,7 +61,7 @@ The main objective was to clean, analyze, visualize, and extract insights from t
 
 ## 📬 Contact
 
-- **Name:** Your Full Name  
+- **Name:** Shyam Dhudiya
 - **LinkedIn:** [Your LinkedIn](https://www.linkedin.com/in/shyam-dhudiya)  
 - **GitHub:** [Your GitHub](https://github.com/shyamdhudiya)  
 
