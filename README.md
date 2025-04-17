@@ -49,14 +49,6 @@ The main objective was to clean, analyze, visualize, and extract insights from t
 
 ---
 
-## 📜 Certification Criteria Met
-
-- ✔️ Task completion > 80%  
-- ✔️ Submitted via Google Form  
-- ✔️ Evaluation-ready with videos and documentation  
-
----
-
 ## 📬 Contact
 
 - **Name:** Shyam Dhudiya
