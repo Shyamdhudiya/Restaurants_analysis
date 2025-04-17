@@ -39,7 +39,7 @@ The main objective was to clean, analyze, visualize, and extract insights from t
 
 ## 📸 Screenshots
  
-![Power BI Dashboard](screenshots/dashboard.png)
+![Power BI Dashboard](screenshots/Dashboard.png)
 
 ---
 
