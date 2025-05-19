@@ -43,12 +43,6 @@ The main objective was to clean, analyze, visualize, and extract insights from t
 
 ---
 
-## 🎥 Project Walkthrough
-
-📽️ Watch the video: [Task Explanation Video](link-to-your-video-on-Drive-or-YouTube)
-
----
-
 ## 📬 Contact
 
 - **Name:** Shyam Dhudiya
